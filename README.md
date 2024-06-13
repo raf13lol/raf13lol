@@ -16,7 +16,7 @@ i mainly code in what i need to use
 - HTML/CSS - uhh dont really make websites so like 3-3.5
 <!--conflicted on whether to add gbz80 or not-->
 
-any repo of mine that starts with `unitything-` basically is just a "random" unity thing i did/doing (not likely doing)
+any repo of mine that starts with `Xthing-` basically is just a "random" thing in X that i did/am doing (not likely doing)
 
 that's about it
 
