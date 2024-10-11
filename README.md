@@ -12,6 +12,6 @@ any repo of mine that starts with `Xthing-` basically is just a "random" thing i
 
 that's about it
 
-maybe i should add more, that's for later
+[my website](https://raf13.neocities.org/)
 
-https://raf13.neocities.org/
+maybe i should add more, that's for later
