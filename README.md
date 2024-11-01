@@ -8,7 +8,7 @@ i mainly code in what i need to use
 
 i can code in like c#, js, haxe, definitely more but too lazy (python for example idk)
 
-any repo of mine that starts with `Xthing-` basically is just a "random" thing in X that i did/am doing (not likely doing)
+any repo of mine that starts with `Xthing-` basically is just a "random" thing in/for X that i did/am doing (not likely doing)
 
 that's about it
 
